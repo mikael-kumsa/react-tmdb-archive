@@ -21,6 +21,13 @@ It uses **The Movie Database (TMDB) API** to display real movie data like poster
 
 ---
 
+
+## Live Demo
+
+Clear here to see the [Live Demo](https://tmdb.michaelkumsa.com)
+
+---
+
 ## 📂 Folder Structure
 
 ```
