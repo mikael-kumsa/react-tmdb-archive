@@ -24,7 +24,8 @@ function MovieCard({movie}) {
         </div>
         <div className="movie-info">
             <h3>{movie.title}</h3>
-            <p>{movie.release_date?.split("-")[0]}</p>
+            <p>{movie.release_date?.split("-")[0]}  </p>
+            <p>Rating: {movie.vote_average.toFixed(1)}</p>
             </div>
     </div>
 
